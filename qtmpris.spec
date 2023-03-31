@@ -6,7 +6,7 @@
 
 Name: qtmpris
 Version: 1.0.6
-Release: 1
+Release: 2
 Source0: https://github.com/sailfishos/qtmpris/archive/refs/tags/%{version}.tar.gz
 Summary: MPRIS (Media Player Remote Interfacing Specification) v.2 implementation for Qt and QML
 URL: https://github.com/qtmpris/qtmpris
